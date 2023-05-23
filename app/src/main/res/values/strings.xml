@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="titre1">SimpleBlogApp</string>
+    <string name="ajouter_un_article">Ajouter un article</string>
+    <string name="contenue">Contenu</string>
+    <string name="close">Close</string>
+    <string name="add_blog">Ajouter Blog</string>
+    <string name="text_blog_value">ferme </string>
+    <string name="titre_value"> Titre</string>
+    <string name="textViewVlaue"> accessible depuis le net GRAFANA : dashbord SENTRY(ouly) : gestionnaire d\'erreurs,gihubwebhocks,jira,slack ((permet d\'interagir avec les differentes technologies par envoie de notifications d\'erreurs )) Gravity ( : trucs d\'api MongoGDB, HardHat : blockchain EleutAI</string>
+    <string name="auteur">Auteur</string>
+    <string name="titre">Titre</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="samablog1">MonBlog</string>
+    <string name="titre_blog">Titre Blog</string>
+    <string name="ecrit_par">Ecrit par :</string>
+    <string name="zahra">Zahra et adja</string>
+    <string name="_27_fevrier_2023">27 Fevrier 2023</string>
+    <string name="back_blog">back_blog</string>
+</resources>
